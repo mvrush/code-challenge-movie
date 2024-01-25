@@ -1,0 +1,1 @@
+exports.someText = 'Some hard coded text';

@@ -1,0 +1,26 @@
+{
+  "name": "code-challenge-movie",
+  "version": "1.0.0",
+  "description": "Coding Challenge presented by BYU OIT Recruiting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvrush/code-challenge-movie.git"
+  },
+  "keywords": [
+    "BYU",
+    "code",
+    "challenge",
+    "movie"
+  ],
+  "author": "Matt Rushton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvrush/code-challenge-movie/issues"
+  },
+  "homepage": "https://github.com/mvrush/code-challenge-movie#readme"
+}
