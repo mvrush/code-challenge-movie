@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mvrush/code-challenge-movie/issues"
   },
-  "homepage": "https://github.com/mvrush/code-challenge-movie#readme"
+  "homepage": "https://github.com/mvrush/code-challenge-movie#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
