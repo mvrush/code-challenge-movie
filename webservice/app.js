@@ -5,7 +5,6 @@ const routes = require('./routes'); // since this is not a global module we add 
 
 console.log(routes.someText); // This line is to test our server connection. Our text held in routes.js should show up in the console. If it does, your server is running.
 
-// const server = http.createServer(routes); // tells Node to just execute the function stored in the 'const = routes' above.
 const server = http.createServer(routes.handler); // tells Node to just execute the function stored in the 'const = routes' above, specifically the function in the 'handler' const which is the 'requestHandler' function in routes.js.
 
 server.listen(3000);
