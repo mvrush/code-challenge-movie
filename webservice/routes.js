@@ -1,7 +1,7 @@
 // This is our routes.js file
 
 
-const { request } = require('http');
+const { request } = require('http'); // pulls the request property from the Node.js module.
 
 
 // Following is my 'requestHandler()' function
